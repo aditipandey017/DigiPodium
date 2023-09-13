@@ -2,8 +2,9 @@ from turtle import *
 '''speed('fastest')
 bgcolor('black')
 pencolor('yellow')
-pensize(2)'''
-
+pensize(2)
+'''
+from turtle import *
 dis=[100,100,58,58]
 ngl=[90,60,60,60]
 
