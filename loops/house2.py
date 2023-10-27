@@ -25,10 +25,10 @@ for d, a in zip(dis,ngl):
     lt(a)
     fd(d)
 penup()
-goto(150,60)
+goto(150,50)
 pendown()
 ngl=[90,90,90,90]
-dis=[30,20,30,20]
+dis=[40,20,40,20]
 for d, a in zip(dis,ngl):
     
     
