@@ -72,3 +72,4 @@ if countries:
     for country in countries:
         c1.info(f'{country}:{df.loc[country, "Total"]}Immigrations')
     c2.plotly_chart(fig3,use_container_width=True)
+    st.toast('Your Graph has been loaded!', icon='😍')
