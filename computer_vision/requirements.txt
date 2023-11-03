@@ -1,0 +1,3 @@
+opencv-contrib-python
+pillow  #used for manipulations in images
+mediapipe #face detection hand detection programs we can make throgh this(ai)
