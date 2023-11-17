@@ -1,5 +1,5 @@
 requests
-beautifulsoup4
-lxml
-html5lib
+beautifulsoup4  #analyze fetched data
+lxml    #beautifulsoup understands text and tag
+html5lib  #works same as lxml  
 dputils
